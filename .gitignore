@@ -1,0 +1,4 @@
+*.pickle
+Datos/
+.DS_Store
+.ipynb_checkpoints/
