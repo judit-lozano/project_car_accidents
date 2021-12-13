@@ -1,5 +1,8 @@
-*.pickle
-Datos/
 .DS_Store
 .ipynb_checkpoints/
-data/
+
+# exclude everything
+data/*
+
+# exception to the rule
+!data/.gitkeep
