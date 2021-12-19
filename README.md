@@ -16,4 +16,4 @@ Los datos para la realización de este estudio se encuentran disponibles en la w
 
 Master in Data Science
 
-![image.png](/images/logo.png)
+![image.png](/images/logo_opt.png)
