@@ -1,6 +1,5 @@
 ## Car Accidents Project - Machine Learning
 Author: Judit Lozano Gondolbeu
-Master in Data Science
 
 **Github repository:**
 
@@ -15,4 +14,6 @@ Fundamental como posible herramienta para el cálculo del capital preciso para q
 Los datos para la realización de este estudio se encuentran disponibles en la web: https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014?select=drivingLegend.pdf
 
 
-![image.png](attachment:5af07964-63fc-408e-8d59-5de1423141b4.png)
+Master in Data Science
+
+![image.png](/images/logo.png)
